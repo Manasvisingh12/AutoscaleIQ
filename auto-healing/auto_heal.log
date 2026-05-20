@@ -1,0 +1,1863 @@
+[2026-05-15 16:05:24] Starting Auto-Healing Engine...
+[2026-05-15 16:05:24] Running health checks...
+[2026-05-15 16:05:24] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:05:24] Health check cycle completed
+[2026-05-15 16:05:54] Running health checks...
+[2026-05-15 16:05:55] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:05:55] Health check cycle completed
+[2026-05-15 16:06:25] Running health checks...
+[2026-05-15 16:06:25] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:06:25] Health check cycle completed
+[2026-05-15 16:06:55] Running health checks...
+[2026-05-15 16:06:56] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:06:56] Health check cycle completed
+[2026-05-15 16:07:26] Running health checks...
+[2026-05-15 16:07:26] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:07:26] Health check cycle completed
+[2026-05-15 16:18:54] Starting Auto-Healing Engine...
+[2026-05-15 16:18:54] Running health checks...
+[2026-05-15 16:18:54] Issue detected in pod: broken-nginx-b4fcbfbc5-hcqpf | Reason: CrashLoopBackOff
+[2026-05-15 16:18:54] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:18:55] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:18:55] Health check cycle completed
+[2026-05-15 16:19:25] Running health checks...
+[2026-05-15 16:19:25] Issue detected in pod: broken-nginx-b4fcbfbc5-hcqpf | Reason: CrashLoopBackOff
+[2026-05-15 16:19:25] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:19:25] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:19:25] Health check cycle completed
+[2026-05-15 16:19:55] Running health checks...
+[2026-05-15 16:19:55] Issue detected in pod: broken-nginx-b4fcbfbc5-lbcw8 | Reason: CrashLoopBackOff
+[2026-05-15 16:19:55] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:19:55] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:19:55] Health check cycle completed
+[2026-05-15 16:20:25] Running health checks...
+[2026-05-15 16:20:25] Issue detected in pod: broken-nginx-b4fcbfbc5-lbcw8 | Reason: CrashLoopBackOff
+[2026-05-15 16:20:25] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:20:26] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:20:26] Health check cycle completed
+[2026-05-15 16:20:56] Running health checks...
+[2026-05-15 16:20:56] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:20:57] Health check cycle completed
+[2026-05-15 16:21:13] Starting Auto-Healing Engine...
+[2026-05-15 16:21:13] Running health checks...
+[2026-05-15 16:21:13] Issue detected in pod: broken-nginx-b4fcbfbc5-lbcw8 | Reason: CrashLoopBackOff
+[2026-05-15 16:21:13] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:21:13] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:21:14] Health check cycle completed
+[2026-05-15 16:21:27] Running health checks...
+[2026-05-15 16:21:27] Issue detected in pod: broken-nginx-b4fcbfbc5-lbcw8 | Reason: CrashLoopBackOff
+[2026-05-15 16:21:27] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:21:27] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:21:27] Health check cycle completed
+[2026-05-15 16:21:57] Running health checks...
+[2026-05-15 16:21:57] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:21:57] Health check cycle completed
+[2026-05-15 16:22:27] Running health checks...
+[2026-05-15 16:22:28] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:22:28] Health check cycle completed
+[2026-05-15 16:22:58] Running health checks...
+[2026-05-15 16:22:58] Issue detected in pod: broken-nginx-b4fcbfbc5-pzqrd | Reason: CrashLoopBackOff
+[2026-05-15 16:22:58] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:22:58] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:22:58] Health check cycle completed
+[2026-05-15 16:23:28] Running health checks...
+[2026-05-15 16:23:28] Issue detected in pod: broken-nginx-b4fcbfbc5-pzqrd | Reason: CrashLoopBackOff
+[2026-05-15 16:23:28] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:23:28] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:23:28] Health check cycle completed
+[2026-05-15 16:23:36] Starting Auto-Healing Engine...
+[2026-05-15 16:23:36] Running health checks...
+[2026-05-15 16:23:36] Issue detected in pod: broken-nginx-b4fcbfbc5-pzqrd | Reason: CrashLoopBackOff
+[2026-05-15 16:23:36] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:23:36] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:23:36] Health check cycle completed
+[2026-05-15 16:23:58] Running health checks...
+[2026-05-15 16:23:58] Issue detected in pod: broken-nginx-b4fcbfbc5-pzqrd | Reason: CrashLoopBackOff
+[2026-05-15 16:23:58] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:23:59] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:23:59] Health check cycle completed
+[2026-05-15 16:24:06] Running health checks...
+[2026-05-15 16:24:06] Issue detected in pod: broken-nginx-b4fcbfbc5-pzqrd | Reason: CrashLoopBackOff
+[2026-05-15 16:24:06] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:24:06] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:24:06] Health check cycle completed
+[2026-05-15 16:24:29] Running health checks...
+[2026-05-15 16:24:29] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:24:29] Health check cycle completed
+[2026-05-15 16:24:36] Running health checks...
+[2026-05-15 16:24:37] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:24:37] Health check cycle completed
+[2026-05-15 16:24:59] Running health checks...
+[2026-05-15 16:25:00] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:25:00] Health check cycle completed
+[2026-05-15 16:25:07] Running health checks...
+[2026-05-15 16:25:07] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:25:07] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:25:07] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:25:07] Health check cycle completed
+[2026-05-15 16:25:30] Running health checks...
+[2026-05-15 16:25:30] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:25:30] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:25:30] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:25:30] Health check cycle completed
+[2026-05-15 16:25:37] Running health checks...
+[2026-05-15 16:25:37] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:25:37] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:25:37] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:25:37] Health check cycle completed
+[2026-05-15 16:26:00] Running health checks...
+[2026-05-15 16:26:00] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:26:00] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:26:00] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:26:00] Health check cycle completed
+[2026-05-15 16:26:07] Running health checks...
+[2026-05-15 16:26:08] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:26:08] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:26:08] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:26:08] Health check cycle completed
+[2026-05-15 16:26:30] Running health checks...
+[2026-05-15 16:26:30] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:26:30] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:26:31] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:26:31] Health check cycle completed
+[2026-05-15 16:26:38] Running health checks...
+[2026-05-15 16:26:38] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:26:38] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:26:38] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:26:38] Health check cycle completed
+[2026-05-15 16:27:01] Running health checks...
+[2026-05-15 16:27:01] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:27:01] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:27:01] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:27:01] Health check cycle completed
+[2026-05-15 16:27:08] Running health checks...
+[2026-05-15 16:27:08] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:27:08] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:27:09] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:27:09] Health check cycle completed
+[2026-05-15 16:27:31] Running health checks...
+[2026-05-15 16:27:31] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:27:31] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:27:31] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:27:31] Health check cycle completed
+[2026-05-15 16:27:39] Running health checks...
+[2026-05-15 16:27:39] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:27:39] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:27:39] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:27:39] Health check cycle completed
+[2026-05-15 16:28:01] Running health checks...
+[2026-05-15 16:28:02] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:28:02] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:28:02] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:28:02] Health check cycle completed
+[2026-05-15 16:28:09] Running health checks...
+[2026-05-15 16:28:09] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:28:09] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:28:09] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:28:09] Health check cycle completed
+[2026-05-15 16:28:32] Running health checks...
+[2026-05-15 16:28:32] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:28:32] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:28:32] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:28:32] Health check cycle completed
+[2026-05-15 16:28:39] Running health checks...
+[2026-05-15 16:28:39] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:28:39] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:28:39] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:28:39] Health check cycle completed
+[2026-05-15 16:29:02] Running health checks...
+[2026-05-15 16:29:03] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:29:03] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:29:03] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:29:03] Health check cycle completed
+[2026-05-15 16:29:33] Running health checks...
+[2026-05-15 16:29:33] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:29:33] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:29:33] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:29:33] Health check cycle completed
+[2026-05-15 16:30:03] Running health checks...
+[2026-05-15 16:30:04] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:30:04] Health check cycle completed
+[2026-05-15 16:30:34] Running health checks...
+[2026-05-15 16:30:34] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:30:34] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:30:34] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:30:34] Health check cycle completed
+[2026-05-15 16:31:04] Running health checks...
+[2026-05-15 16:31:04] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:31:04] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:31:04] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:31:04] Health check cycle completed
+[2026-05-15 16:31:34] Running health checks...
+[2026-05-15 16:31:34] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:31:34] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:31:35] Failed to check memory usage: Command '['kubectl', 'top', 'pods', '-A', '--no-headers']' returned non-zero exit status 1.
+[2026-05-15 16:31:35] Health check cycle completed
+[2026-05-15 16:32:05] Running health checks...
+[2026-05-15 16:32:05] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:32:05] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:32:05] Health check cycle completed
+[2026-05-15 16:32:35] Running health checks...
+[2026-05-15 16:32:35] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:32:35] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:32:35] Health check cycle completed
+[2026-05-15 16:33:05] Running health checks...
+[2026-05-15 16:33:05] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:33:05] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:33:06] Health check cycle completed
+[2026-05-15 16:33:36] Running health checks...
+[2026-05-15 16:33:36] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:33:36] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:33:36] Health check cycle completed
+[2026-05-15 16:34:06] Running health checks...
+[2026-05-15 16:34:06] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:34:06] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:34:07] Health check cycle completed
+[2026-05-15 16:34:37] Running health checks...
+[2026-05-15 16:34:37] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:34:37] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:34:37] Health check cycle completed
+[2026-05-15 16:35:07] Running health checks...
+[2026-05-15 16:35:07] Health check cycle completed
+[2026-05-15 16:35:37] Running health checks...
+[2026-05-15 16:35:37] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:35:37] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:35:38] Health check cycle completed
+[2026-05-15 16:36:08] Running health checks...
+[2026-05-15 16:36:08] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:36:08] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:36:08] Health check cycle completed
+[2026-05-15 16:36:38] Running health checks...
+[2026-05-15 16:36:38] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:36:38] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:36:39] Health check cycle completed
+[2026-05-15 16:37:05] Starting Auto-Healing Engine...
+[2026-05-15 16:37:05] Running health checks...
+[2026-05-15 16:37:05] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:37:05] Restarting deployment: broken-nginx
+[2026-05-15 16:37:05] Successfully restarted deployment: broken-nginx
+[2026-05-15 16:37:05] Health check cycle completed
+[2026-05-15 16:37:09] Running health checks...
+[2026-05-15 16:37:09] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:37:09] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:37:09] Health check cycle completed
+[2026-05-15 16:37:10] Running health checks...
+[2026-05-15 16:37:11] Issue detected in pod: broken-nginx-b4fcbfbc5-2xw9w | Reason: CrashLoopBackOff
+[2026-05-15 16:37:11] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:37:11] Health check cycle completed
+[2026-05-15 16:37:16] Running health checks...
+[2026-05-15 16:37:16] Health check cycle completed
+[2026-05-15 16:37:21] Running health checks...
+[2026-05-15 16:37:21] Health check cycle completed
+[2026-05-15 16:37:26] Running health checks...
+[2026-05-15 16:37:26] Health check cycle completed
+[2026-05-15 16:37:31] Running health checks...
+[2026-05-15 16:37:31] Health check cycle completed
+[2026-05-15 16:37:36] Running health checks...
+[2026-05-15 16:37:37] Health check cycle completed
+[2026-05-15 16:37:39] Running health checks...
+[2026-05-15 16:37:39] Health check cycle completed
+[2026-05-15 16:37:42] Running health checks...
+[2026-05-15 16:37:42] Health check cycle completed
+[2026-05-15 16:37:47] Running health checks...
+[2026-05-15 16:37:56] Starting Auto-Healing Engine...
+[2026-05-15 16:37:56] Running health checks...
+[2026-05-15 16:37:56] Issue detected in pod: broken-nginx-b4fcbfbc5-dxf9t | Reason: CrashLoopBackOff
+[2026-05-15 16:37:56] Restarting deployment: broken-nginx
+[2026-05-15 16:37:57] Successfully restarted deployment: broken-nginx
+[2026-05-15 16:37:57] Health check cycle completed
+[2026-05-15 16:38:02] Running health checks...
+[2026-05-15 16:38:02] Issue detected in pod: broken-nginx-b4fcbfbc5-dxf9t | Reason: CrashLoopBackOff
+[2026-05-15 16:38:02] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:38:02] Health check cycle completed
+[2026-05-15 16:38:07] Running health checks...
+[2026-05-15 16:38:07] Health check cycle completed
+[2026-05-15 16:38:09] Running health checks...
+[2026-05-15 16:38:09] Health check cycle completed
+[2026-05-15 16:38:12] Running health checks...
+[2026-05-15 16:38:13] Health check cycle completed
+[2026-05-15 16:38:18] Running health checks...
+[2026-05-15 16:38:18] Health check cycle completed
+[2026-05-15 16:38:23] Running health checks...
+[2026-05-15 16:38:23] Health check cycle completed
+[2026-05-15 16:38:28] Running health checks...
+[2026-05-15 16:38:28] Health check cycle completed
+[2026-05-15 16:38:33] Running health checks...
+[2026-05-15 16:38:33] Health check cycle completed
+[2026-05-15 16:38:38] Running health checks...
+[2026-05-15 16:38:39] Health check cycle completed
+[2026-05-15 16:38:39] Running health checks...
+[2026-05-15 16:38:39] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:38:39] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:38:39] Health check cycle completed
+[2026-05-15 16:38:44] Running health checks...
+[2026-05-15 16:38:44] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:38:44] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:38:44] Health check cycle completed
+[2026-05-15 16:38:49] Running health checks...
+[2026-05-15 16:38:49] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:38:49] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:38:49] Health check cycle completed
+[2026-05-15 16:38:54] Running health checks...
+[2026-05-15 16:38:54] Health check cycle completed
+[2026-05-15 16:38:59] Running health checks...
+[2026-05-15 16:38:59] Health check cycle completed
+[2026-05-15 16:39:04] Running health checks...
+[2026-05-15 16:39:05] Health check cycle completed
+[2026-05-15 16:39:09] Running health checks...
+[2026-05-15 16:39:10] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:10] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:39:10] Health check cycle completed
+[2026-05-15 16:39:10] Running health checks...
+[2026-05-15 16:39:10] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:10] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:39:10] Health check cycle completed
+[2026-05-15 16:39:15] Running health checks...
+[2026-05-15 16:39:15] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:15] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:39:15] Health check cycle completed
+[2026-05-15 16:39:20] Running health checks...
+[2026-05-15 16:39:20] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:20] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:39:20] Health check cycle completed
+[2026-05-15 16:39:25] Running health checks...
+[2026-05-15 16:39:25] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:25] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:39:25] Health check cycle completed
+[2026-05-15 16:39:30] Running health checks...
+[2026-05-15 16:39:30] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:30] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:39:31] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:39:31] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:39:31] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:39:31] Health check cycle completed
+[2026-05-15 16:39:36] Running health checks...
+[2026-05-15 16:39:36] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:36] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:39:36] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:39:36] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:39:36] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:39:36] Health check cycle completed
+[2026-05-15 16:39:40] Running health checks...
+[2026-05-15 16:39:40] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:39:40] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:39:40] Health check cycle completed
+[2026-05-15 16:39:41] Running health checks...
+[2026-05-15 16:39:41] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:39:41] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:39:41] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:39:41] Health check cycle completed
+[2026-05-15 16:39:46] Running health checks...
+[2026-05-15 16:39:46] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:39:46] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:39:46] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:39:46] Health check cycle completed
+[2026-05-15 16:39:51] Running health checks...
+[2026-05-15 16:39:51] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:51] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:39:51] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:39:51] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:39:52] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:39:52] Health check cycle completed
+[2026-05-15 16:39:57] Running health checks...
+[2026-05-15 16:39:57] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:39:57] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:39:57] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:39:57] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:39:57] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:39:57] Health check cycle completed
+[2026-05-15 16:40:02] Running health checks...
+[2026-05-15 16:40:02] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:02] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:40:02] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:40:02] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:40:02] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:40:02] Health check cycle completed
+[2026-05-15 16:40:07] Running health checks...
+[2026-05-15 16:40:07] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:07] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:40:07] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:40:07] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:40:07] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:40:07] Health check cycle completed
+[2026-05-15 16:40:10] Running health checks...
+[2026-05-15 16:40:10] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:10] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:40:10] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:40:10] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:40:10] Health check cycle completed
+[2026-05-15 16:40:12] Running health checks...
+[2026-05-15 16:40:12] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:12] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:40:12] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:40:13] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:40:13] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:40:13] Health check cycle completed
+[2026-05-15 16:40:18] Running health checks...
+[2026-05-15 16:40:18] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:18] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:40:18] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:40:18] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:40:18] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:40:18] Health check cycle completed
+[2026-05-15 16:40:23] Running health checks...
+[2026-05-15 16:40:23] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:23] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:40:23] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:40:23] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:40:23] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:40:23] Health check cycle completed
+[2026-05-15 16:40:28] Running health checks...
+[2026-05-15 16:40:28] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:28] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:40:28] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:40:28] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:40:28] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:40:28] Health check cycle completed
+[2026-05-15 16:40:33] Running health checks...
+[2026-05-15 16:40:33] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:33] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:40:34] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:40:34] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:40:34] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:40:34] Health check cycle completed
+[2026-05-15 16:40:39] Running health checks...
+[2026-05-15 16:40:39] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:39] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:40:39] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:40:39] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:40:39] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:40:39] Health check cycle completed
+[2026-05-15 16:40:40] Running health checks...
+[2026-05-15 16:40:40] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:40:40] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:40:40] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:40:40] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:40:40] Health check cycle completed
+[2026-05-15 16:41:10] Running health checks...
+[2026-05-15 16:41:11] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:41:11] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:41:11] Health check cycle completed
+[2026-05-15 16:41:41] Running health checks...
+[2026-05-15 16:41:41] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:41:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:41:41] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 408Mi
+[2026-05-15 16:41:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:41:41] Health check cycle completed
+[2026-05-15 16:41:56] Starting Auto-Healing Engine...
+[2026-05-15 16:41:56] Running health checks...
+[2026-05-15 16:41:56] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:41:56] Restarting deployment: broken-nginx
+[2026-05-15 16:41:56] Successfully restarted deployment: broken-nginx
+[2026-05-15 16:41:56] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 407Mi
+[2026-05-15 16:41:56] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:41:56] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:41:56] Health check cycle completed
+[2026-05-15 16:42:01] Running health checks...
+[2026-05-15 16:42:01] Issue detected in pod: broken-nginx-5d9fb4b75c-kxhf8 | Reason: RunContainerError
+[2026-05-15 16:42:01] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:01] Issue detected in pod: broken-nginx-b4fcbfbc5-x4f6h | Reason: CrashLoopBackOff
+[2026-05-15 16:42:01] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:01] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 407Mi
+[2026-05-15 16:42:01] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:42:01] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:42:01] Health check cycle completed
+[2026-05-15 16:42:06] Running health checks...
+[2026-05-15 16:42:06] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:42:06] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:07] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 407Mi
+[2026-05-15 16:42:07] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:42:07] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:42:07] Health check cycle completed
+[2026-05-15 16:42:11] Running health checks...
+[2026-05-15 16:42:11] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 407Mi
+[2026-05-15 16:42:11] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:42:11] Health check cycle completed
+[2026-05-15 16:42:12] Running health checks...
+[2026-05-15 16:42:12] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:42:12] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:12] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 407Mi
+[2026-05-15 16:42:12] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:42:12] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:42:12] Health check cycle completed
+[2026-05-15 16:42:17] Running health checks...
+[2026-05-15 16:42:17] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:42:17] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:17] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 407Mi
+[2026-05-15 16:42:17] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:42:17] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:42:17] Health check cycle completed
+[2026-05-15 16:42:22] Running health checks...
+[2026-05-15 16:42:22] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:42:22] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:22] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 407Mi
+[2026-05-15 16:42:22] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:42:22] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:42:22] Health check cycle completed
+[2026-05-15 16:42:27] Running health checks...
+[2026-05-15 16:42:27] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:42:27] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:28] Health check cycle completed
+[2026-05-15 16:42:33] Running health checks...
+[2026-05-15 16:42:33] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:42:33] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:33] Health check cycle completed
+[2026-05-15 16:42:38] Running health checks...
+[2026-05-15 16:42:38] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:42:38] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:38] Health check cycle completed
+[2026-05-15 16:42:41] Running health checks...
+[2026-05-15 16:42:41] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:42:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:42:41] Health check cycle completed
+[2026-05-15 16:42:43] Running health checks...
+[2026-05-15 16:42:43] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:42:43] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:43] Health check cycle completed
+[2026-05-15 16:42:48] Running health checks...
+[2026-05-15 16:42:48] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:42:48] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:48] Health check cycle completed
+[2026-05-15 16:42:53] Running health checks...
+[2026-05-15 16:42:53] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:42:53] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:54] Health check cycle completed
+[2026-05-15 16:42:59] Running health checks...
+[2026-05-15 16:42:59] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:42:59] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:42:59] Health check cycle completed
+[2026-05-15 16:43:04] Running health checks...
+[2026-05-15 16:43:04] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:04] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:04] Health check cycle completed
+[2026-05-15 16:43:09] Running health checks...
+[2026-05-15 16:43:09] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:09] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:09] Health check cycle completed
+[2026-05-15 16:43:11] Running health checks...
+[2026-05-15 16:43:11] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:11] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:43:12] Health check cycle completed
+[2026-05-15 16:43:14] Running health checks...
+[2026-05-15 16:43:14] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:14] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:14] Health check cycle completed
+[2026-05-15 16:43:19] Running health checks...
+[2026-05-15 16:43:19] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:19] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:20] Health check cycle completed
+[2026-05-15 16:43:25] Running health checks...
+[2026-05-15 16:43:25] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:25] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:25] Health check cycle completed
+[2026-05-15 16:43:30] Running health checks...
+[2026-05-15 16:43:30] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:43:30] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:30] Health check cycle completed
+[2026-05-15 16:43:35] Running health checks...
+[2026-05-15 16:43:35] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:43:35] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:35] Health check cycle completed
+[2026-05-15 16:43:40] Running health checks...
+[2026-05-15 16:43:40] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:43:40] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:40] Health check cycle completed
+[2026-05-15 16:43:42] Running health checks...
+[2026-05-15 16:43:42] Health check cycle completed
+[2026-05-15 16:43:45] Running health checks...
+[2026-05-15 16:43:46] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:46] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:46] Health check cycle completed
+[2026-05-15 16:43:51] Running health checks...
+[2026-05-15 16:43:51] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:51] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:51] Health check cycle completed
+[2026-05-15 16:43:56] Running health checks...
+[2026-05-15 16:43:56] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:43:56] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:43:56] Health check cycle completed
+[2026-05-15 16:44:01] Running health checks...
+[2026-05-15 16:44:02] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:02] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:02] Health check cycle completed
+[2026-05-15 16:44:07] Running health checks...
+[2026-05-15 16:44:07] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:07] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:07] Health check cycle completed
+[2026-05-15 16:44:12] Running health checks...
+[2026-05-15 16:44:12] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:12] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:44:12] Health check cycle completed
+[2026-05-15 16:44:12] Running health checks...
+[2026-05-15 16:44:12] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:12] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:12] Health check cycle completed
+[2026-05-15 16:44:17] Running health checks...
+[2026-05-15 16:44:18] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:18] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:18] Health check cycle completed
+[2026-05-15 16:44:23] Running health checks...
+[2026-05-15 16:44:23] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:23] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:23] Health check cycle completed
+[2026-05-15 16:44:28] Running health checks...
+[2026-05-15 16:44:28] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:28] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:28] Health check cycle completed
+[2026-05-15 16:44:33] Running health checks...
+[2026-05-15 16:44:33] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:33] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:34] Health check cycle completed
+[2026-05-15 16:44:39] Running health checks...
+[2026-05-15 16:44:39] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:39] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:39] Health check cycle completed
+[2026-05-15 16:44:42] Running health checks...
+[2026-05-15 16:44:42] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:42] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:44:42] Health check cycle completed
+[2026-05-15 16:44:44] Running health checks...
+[2026-05-15 16:44:44] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:44] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:44] Health check cycle completed
+[2026-05-15 16:44:49] Running health checks...
+[2026-05-15 16:44:49] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:49] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:49] Health check cycle completed
+[2026-05-15 16:44:54] Running health checks...
+[2026-05-15 16:44:54] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:54] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:44:54] Health check cycle completed
+[2026-05-15 16:44:59] Running health checks...
+[2026-05-15 16:44:59] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:44:59] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:00] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 401Mi
+[2026-05-15 16:45:00] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:00] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:00] Health check cycle completed
+[2026-05-15 16:45:05] Running health checks...
+[2026-05-15 16:45:05] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:45:05] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:05] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 401Mi
+[2026-05-15 16:45:05] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:05] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:05] Health check cycle completed
+[2026-05-15 16:45:10] Running health checks...
+[2026-05-15 16:45:10] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: RunContainerError
+[2026-05-15 16:45:10] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:10] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 401Mi
+[2026-05-15 16:45:10] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:10] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:10] Health check cycle completed
+[2026-05-15 16:45:12] Running health checks...
+[2026-05-15 16:45:12] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:45:12] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:45:12] Health check cycle completed
+[2026-05-15 16:45:15] Running health checks...
+[2026-05-15 16:45:15] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:15] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:15] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:45:15] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:15] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:16] Health check cycle completed
+[2026-05-15 16:45:21] Running health checks...
+[2026-05-15 16:45:21] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:21] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:21] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 402Mi
+[2026-05-15 16:45:21] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:21] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:21] Health check cycle completed
+[2026-05-15 16:45:26] Running health checks...
+[2026-05-15 16:45:26] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:26] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:26] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 403Mi
+[2026-05-15 16:45:26] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:26] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:26] Health check cycle completed
+[2026-05-15 16:45:31] Running health checks...
+[2026-05-15 16:45:31] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:31] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:31] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 403Mi
+[2026-05-15 16:45:31] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:31] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:31] Health check cycle completed
+[2026-05-15 16:45:36] Running health checks...
+[2026-05-15 16:45:36] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:36] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:36] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 403Mi
+[2026-05-15 16:45:36] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:37] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:37] Health check cycle completed
+[2026-05-15 16:45:42] Running health checks...
+[2026-05-15 16:45:42] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:42] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:42] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 403Mi
+[2026-05-15 16:45:42] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:42] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:42] Health check cycle completed
+[2026-05-15 16:45:42] Running health checks...
+[2026-05-15 16:45:42] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:42] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:45:43] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 403Mi
+[2026-05-15 16:45:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:45:43] Health check cycle completed
+[2026-05-15 16:45:47] Running health checks...
+[2026-05-15 16:45:47] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:47] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:47] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 403Mi
+[2026-05-15 16:45:47] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:47] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:47] Health check cycle completed
+[2026-05-15 16:45:52] Running health checks...
+[2026-05-15 16:45:52] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:45:52] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:45:52] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 403Mi
+[2026-05-15 16:45:52] Scaling deployment desktop-control to 4 replicas
+[2026-05-15 16:45:52] Failed to scale deployment desktop-control: Command '['kubectl', 'scale', 'deployment/desktop-control', '--replicas=4', '-n', 'kube-system']' returned non-zero exit status 1.
+[2026-05-15 16:45:52] Health check cycle completed
+[2026-05-15 16:46:12] Starting Auto-Healing Engine...
+[2026-05-15 16:46:12] Running health checks...
+[2026-05-15 16:46:12] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:46:12] Restarting deployment: broken-nginx
+[2026-05-15 16:46:12] Successfully restarted deployment: broken-nginx
+[2026-05-15 16:46:12] Health check cycle completed
+[2026-05-15 16:46:13] Running health checks...
+[2026-05-15 16:46:13] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:46:13] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:46:13] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 404Mi
+[2026-05-15 16:46:13] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:46:13] Health check cycle completed
+[2026-05-15 16:46:17] Running health checks...
+[2026-05-15 16:46:17] Issue detected in pod: broken-nginx-778558f954-8xgv7 | Reason: RunContainerError
+[2026-05-15 16:46:17] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:17] Issue detected in pod: broken-nginx-b4fcbfbc5-j9g5x | Reason: CrashLoopBackOff
+[2026-05-15 16:46:17] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:18] Health check cycle completed
+[2026-05-15 16:46:23] Running health checks...
+[2026-05-15 16:46:23] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:46:23] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:23] Health check cycle completed
+[2026-05-15 16:46:28] Running health checks...
+[2026-05-15 16:46:28] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:46:28] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:28] Health check cycle completed
+[2026-05-15 16:46:33] Running health checks...
+[2026-05-15 16:46:33] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:46:33] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:33] Health check cycle completed
+[2026-05-15 16:46:38] Running health checks...
+[2026-05-15 16:46:38] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:46:38] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:38] Health check cycle completed
+[2026-05-15 16:46:43] Running health checks...
+[2026-05-15 16:46:43] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 406Mi
+[2026-05-15 16:46:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:46:43] Health check cycle completed
+[2026-05-15 16:46:43] Running health checks...
+[2026-05-15 16:46:43] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:46:43] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:44] Health check cycle completed
+[2026-05-15 16:46:49] Running health checks...
+[2026-05-15 16:46:49] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:46:49] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:49] Health check cycle completed
+[2026-05-15 16:46:54] Running health checks...
+[2026-05-15 16:46:54] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:46:54] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:54] Health check cycle completed
+[2026-05-15 16:46:59] Running health checks...
+[2026-05-15 16:46:59] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:46:59] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:46:59] Health check cycle completed
+[2026-05-15 16:47:04] Running health checks...
+[2026-05-15 16:47:04] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:47:04] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:04] Health check cycle completed
+[2026-05-15 16:47:09] Running health checks...
+[2026-05-15 16:47:09] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:47:09] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:10] Health check cycle completed
+[2026-05-15 16:47:13] Running health checks...
+[2026-05-15 16:47:13] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 408Mi
+[2026-05-15 16:47:13] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:47:13] Health check cycle completed
+[2026-05-15 16:47:15] Running health checks...
+[2026-05-15 16:47:15] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:47:15] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:15] Health check cycle completed
+[2026-05-15 16:47:20] Running health checks...
+[2026-05-15 16:47:20] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:47:20] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:20] Health check cycle completed
+[2026-05-15 16:47:25] Running health checks...
+[2026-05-15 16:47:25] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:47:25] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:25] Health check cycle completed
+[2026-05-15 16:47:30] Running health checks...
+[2026-05-15 16:47:30] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:47:30] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:30] Health check cycle completed
+[2026-05-15 16:47:35] Running health checks...
+[2026-05-15 16:47:36] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:47:36] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:36] Health check cycle completed
+[2026-05-15 16:47:41] Running health checks...
+[2026-05-15 16:47:41] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:47:41] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:41] Health check cycle completed
+[2026-05-15 16:47:43] Running health checks...
+[2026-05-15 16:47:43] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:47:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:47:43] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 409Mi
+[2026-05-15 16:47:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:47:43] Health check cycle completed
+[2026-05-15 16:47:46] Running health checks...
+[2026-05-15 16:47:46] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:47:46] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:46] Health check cycle completed
+[2026-05-15 16:47:51] Running health checks...
+[2026-05-15 16:47:51] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:47:51] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:51] Health check cycle completed
+[2026-05-15 16:47:56] Running health checks...
+[2026-05-15 16:47:56] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:47:56] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:47:57] Health check cycle completed
+[2026-05-15 16:48:02] Running health checks...
+[2026-05-15 16:48:02] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:02] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:02] Health check cycle completed
+[2026-05-15 16:48:07] Running health checks...
+[2026-05-15 16:48:07] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:07] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:07] Health check cycle completed
+[2026-05-15 16:48:12] Running health checks...
+[2026-05-15 16:48:12] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:12] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:12] Health check cycle completed
+[2026-05-15 16:48:13] Running health checks...
+[2026-05-15 16:48:13] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:13] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:48:13] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 409Mi
+[2026-05-15 16:48:13] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:48:13] Health check cycle completed
+[2026-05-15 16:48:17] Running health checks...
+[2026-05-15 16:48:17] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:17] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:17] Health check cycle completed
+[2026-05-15 16:48:22] Running health checks...
+[2026-05-15 16:48:23] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:23] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:23] Health check cycle completed
+[2026-05-15 16:48:28] Running health checks...
+[2026-05-15 16:48:28] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:28] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:28] Health check cycle completed
+[2026-05-15 16:48:33] Running health checks...
+[2026-05-15 16:48:33] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:33] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:33] Health check cycle completed
+[2026-05-15 16:48:38] Running health checks...
+[2026-05-15 16:48:38] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:38] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:38] Health check cycle completed
+[2026-05-15 16:48:43] Running health checks...
+[2026-05-15 16:48:43] Running health checks...
+[2026-05-15 16:48:43] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:43] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:44] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:48:44] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 409Mi
+[2026-05-15 16:48:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:48:44] Health check cycle completed
+[2026-05-15 16:48:44] Health check cycle completed
+[2026-05-15 16:48:49] Running health checks...
+[2026-05-15 16:48:49] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:49] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:49] Health check cycle completed
+[2026-05-15 16:48:54] Running health checks...
+[2026-05-15 16:48:54] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:54] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:54] Health check cycle completed
+[2026-05-15 16:48:59] Running health checks...
+[2026-05-15 16:48:59] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:48:59] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:48:59] Health check cycle completed
+[2026-05-15 16:49:04] Running health checks...
+[2026-05-15 16:49:04] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:04] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:05] Health check cycle completed
+[2026-05-15 16:49:10] Running health checks...
+[2026-05-15 16:49:10] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:49:10] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:10] Health check cycle completed
+[2026-05-15 16:49:14] Running health checks...
+[2026-05-15 16:49:14] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 410Mi
+[2026-05-15 16:49:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:49:14] Health check cycle completed
+[2026-05-15 16:49:15] Running health checks...
+[2026-05-15 16:49:15] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:49:15] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:15] Health check cycle completed
+[2026-05-15 16:49:20] Running health checks...
+[2026-05-15 16:49:20] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:49:20] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:20] Health check cycle completed
+[2026-05-15 16:49:25] Running health checks...
+[2026-05-15 16:49:25] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:25] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:25] Health check cycle completed
+[2026-05-15 16:49:30] Running health checks...
+[2026-05-15 16:49:30] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:30] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:30] Health check cycle completed
+[2026-05-15 16:49:36] Running health checks...
+[2026-05-15 16:49:36] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:36] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:36] Health check cycle completed
+[2026-05-15 16:49:41] Running health checks...
+[2026-05-15 16:49:41] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:41] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:41] Health check cycle completed
+[2026-05-15 16:49:44] Running health checks...
+[2026-05-15 16:49:44] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:49:44] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 409Mi
+[2026-05-15 16:49:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:49:44] Health check cycle completed
+[2026-05-15 16:49:46] Running health checks...
+[2026-05-15 16:49:46] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:46] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:46] Health check cycle completed
+[2026-05-15 16:49:51] Running health checks...
+[2026-05-15 16:49:51] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:51] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:51] Health check cycle completed
+[2026-05-15 16:49:56] Running health checks...
+[2026-05-15 16:49:57] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:49:57] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:49:57] Health check cycle completed
+[2026-05-15 16:50:02] Running health checks...
+[2026-05-15 16:50:02] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:02] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:02] Health check cycle completed
+[2026-05-15 16:50:07] Running health checks...
+[2026-05-15 16:50:07] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:07] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:07] Health check cycle completed
+[2026-05-15 16:50:12] Running health checks...
+[2026-05-15 16:50:12] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:12] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:12] Health check cycle completed
+[2026-05-15 16:50:14] Running health checks...
+[2026-05-15 16:50:14] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:50:14] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 409Mi
+[2026-05-15 16:50:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:50:14] Health check cycle completed
+[2026-05-15 16:50:17] Running health checks...
+[2026-05-15 16:50:17] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:17] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:17] Health check cycle completed
+[2026-05-15 16:50:22] Running health checks...
+[2026-05-15 16:50:23] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:23] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:23] Health check cycle completed
+[2026-05-15 16:50:28] Running health checks...
+[2026-05-15 16:50:28] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:28] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:28] Health check cycle completed
+[2026-05-15 16:50:33] Running health checks...
+[2026-05-15 16:50:33] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:33] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:33] Health check cycle completed
+[2026-05-15 16:50:38] Running health checks...
+[2026-05-15 16:50:38] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:38] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:38] Health check cycle completed
+[2026-05-15 16:50:43] Running health checks...
+[2026-05-15 16:50:43] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:43] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:44] Health check cycle completed
+[2026-05-15 16:50:44] Running health checks...
+[2026-05-15 16:50:44] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:50:44] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 411Mi
+[2026-05-15 16:50:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:50:44] Health check cycle completed
+[2026-05-15 16:50:49] Running health checks...
+[2026-05-15 16:50:49] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:49] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:49] Health check cycle completed
+[2026-05-15 16:50:54] Running health checks...
+[2026-05-15 16:50:54] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:54] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:54] Health check cycle completed
+[2026-05-15 16:50:59] Running health checks...
+[2026-05-15 16:50:59] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:50:59] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:50:59] Health check cycle completed
+[2026-05-15 16:51:04] Running health checks...
+[2026-05-15 16:51:04] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:04] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:04] Health check cycle completed
+[2026-05-15 16:51:09] Running health checks...
+[2026-05-15 16:51:09] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:09] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:10] Health check cycle completed
+[2026-05-15 16:51:14] Running health checks...
+[2026-05-15 16:51:15] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:15] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:51:15] Running health checks...
+[2026-05-15 16:51:15] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:15] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:15] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 411Mi
+[2026-05-15 16:51:15] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:51:15] Health check cycle completed
+[2026-05-15 16:51:15] Health check cycle completed
+[2026-05-15 16:51:20] Running health checks...
+[2026-05-15 16:51:20] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:20] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:20] Health check cycle completed
+[2026-05-15 16:51:25] Running health checks...
+[2026-05-15 16:51:25] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:25] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:25] Health check cycle completed
+[2026-05-15 16:51:30] Running health checks...
+[2026-05-15 16:51:30] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:30] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:30] Health check cycle completed
+[2026-05-15 16:51:35] Running health checks...
+[2026-05-15 16:51:35] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:35] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:36] Health check cycle completed
+[2026-05-15 16:51:41] Running health checks...
+[2026-05-15 16:51:41] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:41] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:41] Health check cycle completed
+[2026-05-15 16:51:45] Running health checks...
+[2026-05-15 16:51:45] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:51:45] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 425Mi
+[2026-05-15 16:51:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:51:45] Health check cycle completed
+[2026-05-15 16:51:46] Running health checks...
+[2026-05-15 16:51:46] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:46] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:46] Health check cycle completed
+[2026-05-15 16:51:51] Running health checks...
+[2026-05-15 16:51:51] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:51] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:51] Health check cycle completed
+[2026-05-15 16:51:56] Running health checks...
+[2026-05-15 16:51:56] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:51:56] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:51:57] Health check cycle completed
+[2026-05-15 16:52:02] Running health checks...
+[2026-05-15 16:52:02] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:52:02] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:02] Health check cycle completed
+[2026-05-15 16:52:07] Running health checks...
+[2026-05-15 16:52:07] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:52:07] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:07] Health check cycle completed
+[2026-05-15 16:52:12] Running health checks...
+[2026-05-15 16:52:12] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: RunContainerError
+[2026-05-15 16:52:12] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:13] Health check cycle completed
+[2026-05-15 16:52:15] Running health checks...
+[2026-05-15 16:52:15] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:15] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:52:15] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 426Mi
+[2026-05-15 16:52:15] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:52:15] Health check cycle completed
+[2026-05-15 16:52:18] Running health checks...
+[2026-05-15 16:52:18] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:18] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:18] Health check cycle completed
+[2026-05-15 16:52:23] Running health checks...
+[2026-05-15 16:52:23] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:23] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:23] Health check cycle completed
+[2026-05-15 16:52:28] Running health checks...
+[2026-05-15 16:52:28] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:28] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:28] Health check cycle completed
+[2026-05-15 16:52:33] Running health checks...
+[2026-05-15 16:52:33] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:33] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:33] Health check cycle completed
+[2026-05-15 16:52:38] Running health checks...
+[2026-05-15 16:52:38] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:38] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:39] Health check cycle completed
+[2026-05-15 16:52:44] Running health checks...
+[2026-05-15 16:52:44] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:44] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:44] Health check cycle completed
+[2026-05-15 16:52:45] Running health checks...
+[2026-05-15 16:52:45] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:52:45] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 428Mi
+[2026-05-15 16:52:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:52:45] Health check cycle completed
+[2026-05-15 16:52:49] Running health checks...
+[2026-05-15 16:52:49] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:49] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:49] Health check cycle completed
+[2026-05-15 16:52:54] Running health checks...
+[2026-05-15 16:52:54] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:54] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:52:54] Health check cycle completed
+[2026-05-15 16:52:59] Running health checks...
+[2026-05-15 16:52:59] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:52:59] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:53:00] Health check cycle completed
+[2026-05-15 16:53:05] Running health checks...
+[2026-05-15 16:53:05] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:53:05] Cooldown active for deployment: broken-nginx
+[2026-05-15 16:53:05] Health check cycle completed
+[2026-05-15 16:53:15] Running health checks...
+[2026-05-15 16:53:17] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:53:17] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:53:18] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 426Mi
+[2026-05-15 16:53:18] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:53:18] Health check cycle completed
+[2026-05-15 16:53:48] Running health checks...
+[2026-05-15 16:53:48] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:53:48] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:53:49] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 427Mi
+[2026-05-15 16:53:49] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:53:49] Health check cycle completed
+[2026-05-15 16:54:19] Running health checks...
+[2026-05-15 16:54:19] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:54:19] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:54:19] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 427Mi
+[2026-05-15 16:54:19] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:54:19] Health check cycle completed
+[2026-05-15 16:54:49] Running health checks...
+[2026-05-15 16:54:49] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:54:49] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:54:49] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 428Mi
+[2026-05-15 16:54:49] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:54:49] Health check cycle completed
+[2026-05-15 16:55:19] Running health checks...
+[2026-05-15 16:55:19] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:55:19] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:55:19] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 428Mi
+[2026-05-15 16:55:19] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:55:19] Health check cycle completed
+[2026-05-15 16:55:49] Running health checks...
+[2026-05-15 16:55:49] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:55:49] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:55:50] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 428Mi
+[2026-05-15 16:55:50] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:55:50] Health check cycle completed
+[2026-05-15 16:56:20] Running health checks...
+[2026-05-15 16:56:20] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:56:20] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:56:20] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 429Mi
+[2026-05-15 16:56:20] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:56:20] Health check cycle completed
+[2026-05-15 16:56:50] Running health checks...
+[2026-05-15 16:56:50] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:56:50] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:56:50] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 429Mi
+[2026-05-15 16:56:50] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:56:50] Health check cycle completed
+[2026-05-15 16:57:20] Running health checks...
+[2026-05-15 16:57:21] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:57:21] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:57:21] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 429Mi
+[2026-05-15 16:57:21] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:57:21] Health check cycle completed
+[2026-05-15 16:57:51] Running health checks...
+[2026-05-15 16:57:51] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:57:51] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:57:51] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 415Mi
+[2026-05-15 16:57:51] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:57:51] Health check cycle completed
+[2026-05-15 16:58:21] Running health checks...
+[2026-05-15 16:58:21] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:58:21] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:58:22] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 418Mi
+[2026-05-15 16:58:22] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:58:22] Health check cycle completed
+[2026-05-15 16:58:52] Running health checks...
+[2026-05-15 16:58:52] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:58:52] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:58:52] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 418Mi
+[2026-05-15 16:58:52] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:58:52] Health check cycle completed
+[2026-05-15 16:59:22] Running health checks...
+[2026-05-15 16:59:22] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:59:22] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:59:22] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 418Mi
+[2026-05-15 16:59:22] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:59:22] Health check cycle completed
+[2026-05-15 16:59:52] Running health checks...
+[2026-05-15 16:59:52] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 16:59:52] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:59:53] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 416Mi
+[2026-05-15 16:59:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 16:59:53] Health check cycle completed
+[2026-05-15 17:00:23] Running health checks...
+[2026-05-15 17:00:23] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:00:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:00:23] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 416Mi
+[2026-05-15 17:00:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:00:23] Health check cycle completed
+[2026-05-15 17:00:53] Running health checks...
+[2026-05-15 17:00:53] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:00:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:00:53] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 416Mi
+[2026-05-15 17:00:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:00:53] Health check cycle completed
+[2026-05-15 17:01:23] Running health checks...
+[2026-05-15 17:01:24] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:01:24] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:01:24] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 419Mi
+[2026-05-15 17:01:24] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:01:24] Health check cycle completed
+[2026-05-15 17:01:54] Running health checks...
+[2026-05-15 17:01:54] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:01:54] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:01:54] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 445Mi
+[2026-05-15 17:01:54] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:01:54] Health check cycle completed
+[2026-05-15 17:02:24] Running health checks...
+[2026-05-15 17:02:25] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 446Mi
+[2026-05-15 17:02:25] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:02:25] Health check cycle completed
+[2026-05-15 17:02:55] Running health checks...
+[2026-05-15 17:02:55] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:02:55] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:02:55] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 446Mi
+[2026-05-15 17:02:55] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:02:55] Health check cycle completed
+[2026-05-15 17:03:25] Running health checks...
+[2026-05-15 17:03:25] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:03:25] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:03:26] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 447Mi
+[2026-05-15 17:03:26] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:03:26] Health check cycle completed
+[2026-05-15 17:03:56] Running health checks...
+[2026-05-15 17:03:56] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:03:56] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:03:56] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 420Mi
+[2026-05-15 17:03:56] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:03:56] Health check cycle completed
+[2026-05-15 17:04:26] Running health checks...
+[2026-05-15 17:04:27] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:04:27] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:04:27] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 421Mi
+[2026-05-15 17:04:27] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:04:27] Health check cycle completed
+[2026-05-15 17:04:57] Running health checks...
+[2026-05-15 17:04:57] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:04:57] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:04:57] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 423Mi
+[2026-05-15 17:04:57] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:04:57] Health check cycle completed
+[2026-05-15 17:05:27] Running health checks...
+[2026-05-15 17:05:27] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:05:27] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:05:28] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 423Mi
+[2026-05-15 17:05:28] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:05:28] Health check cycle completed
+[2026-05-15 17:05:58] Running health checks...
+[2026-05-15 17:05:58] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:05:58] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:05:58] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 423Mi
+[2026-05-15 17:05:58] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:05:58] Health check cycle completed
+[2026-05-15 17:06:28] Running health checks...
+[2026-05-15 17:06:28] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:06:28] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:06:29] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 423Mi
+[2026-05-15 17:06:29] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:06:29] Health check cycle completed
+[2026-05-15 17:06:59] Running health checks...
+[2026-05-15 17:06:59] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:06:59] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:06:59] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 423Mi
+[2026-05-15 17:06:59] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:06:59] Health check cycle completed
+[2026-05-15 17:07:29] Running health checks...
+[2026-05-15 17:07:29] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 423Mi
+[2026-05-15 17:07:29] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:07:29] Health check cycle completed
+[2026-05-15 17:07:59] Running health checks...
+[2026-05-15 17:07:59] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:07:59] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:08:00] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 423Mi
+[2026-05-15 17:08:00] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:08:00] Health check cycle completed
+[2026-05-15 17:08:30] Running health checks...
+[2026-05-15 17:08:30] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:08:30] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:08:30] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 424Mi
+[2026-05-15 17:08:30] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:08:30] Health check cycle completed
+[2026-05-15 17:09:00] Running health checks...
+[2026-05-15 17:09:00] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:09:00] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:09:01] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 425Mi
+[2026-05-15 17:09:01] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:09:01] Health check cycle completed
+[2026-05-15 17:09:31] Running health checks...
+[2026-05-15 17:09:31] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:09:31] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:09:31] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 425Mi
+[2026-05-15 17:09:31] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:09:31] Health check cycle completed
+[2026-05-15 17:10:01] Running health checks...
+[2026-05-15 17:10:01] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:10:01] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:10:01] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 426Mi
+[2026-05-15 17:10:01] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:10:01] Health check cycle completed
+[2026-05-15 17:10:31] Running health checks...
+[2026-05-15 17:10:31] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:10:31] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:10:31] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 436Mi
+[2026-05-15 17:10:31] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:10:31] High memory usage detected in pod: monitoring-grafana-d96dbddb9-jw8fd | Memory: 466Mi
+[2026-05-15 17:10:31] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:10:31] Health check cycle completed
+[2026-05-15 17:11:01] Running health checks...
+[2026-05-15 17:11:01] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:11:01] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:11:02] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 436Mi
+[2026-05-15 17:11:02] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:11:02] High memory usage detected in pod: monitoring-grafana-d96dbddb9-jw8fd | Memory: 471Mi
+[2026-05-15 17:11:02] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:11:02] Health check cycle completed
+[2026-05-15 17:11:32] Running health checks...
+[2026-05-15 17:11:32] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:11:32] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:11:32] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 442Mi
+[2026-05-15 17:11:32] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:11:32] High memory usage detected in pod: monitoring-grafana-d96dbddb9-jw8fd | Memory: 479Mi
+[2026-05-15 17:11:32] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:11:32] Health check cycle completed
+[2026-05-15 17:12:02] Running health checks...
+[2026-05-15 17:12:02] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:12:02] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:12:02] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 442Mi
+[2026-05-15 17:12:02] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:12:02] High memory usage detected in pod: monitoring-grafana-d96dbddb9-jw8fd | Memory: 482Mi
+[2026-05-15 17:12:02] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:12:02] Health check cycle completed
+[2026-05-15 17:12:32] Running health checks...
+[2026-05-15 17:12:32] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:12:32] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:12:33] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 442Mi
+[2026-05-15 17:12:33] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:12:33] High memory usage detected in pod: monitoring-grafana-d96dbddb9-jw8fd | Memory: 482Mi
+[2026-05-15 17:12:33] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:12:33] Health check cycle completed
+[2026-05-15 17:13:03] Running health checks...
+[2026-05-15 17:13:03] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:13:03] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:13:03] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 444Mi
+[2026-05-15 17:13:03] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:13:03] High memory usage detected in pod: monitoring-grafana-d96dbddb9-jw8fd | Memory: 482Mi
+[2026-05-15 17:13:03] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:13:03] Health check cycle completed
+[2026-05-15 17:13:33] Running health checks...
+[2026-05-15 17:13:33] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:13:33] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:13:33] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 444Mi
+[2026-05-15 17:13:33] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:13:33] Health check cycle completed
+[2026-05-15 17:14:03] Running health checks...
+[2026-05-15 17:14:03] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:14:03] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:14:03] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 444Mi
+[2026-05-15 17:14:03] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:14:03] Health check cycle completed
+[2026-05-15 17:14:33] Running health checks...
+[2026-05-15 17:14:33] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:14:33] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:14:34] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 444Mi
+[2026-05-15 17:14:34] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:14:34] Health check cycle completed
+[2026-05-15 17:15:04] Running health checks...
+[2026-05-15 17:15:04] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:15:04] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:15:04] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 424Mi
+[2026-05-15 17:15:04] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:15:04] Health check cycle completed
+[2026-05-15 17:15:34] Running health checks...
+[2026-05-15 17:15:34] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:15:34] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:15:34] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 425Mi
+[2026-05-15 17:15:34] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:15:34] Health check cycle completed
+[2026-05-15 17:16:04] Running health checks...
+[2026-05-15 17:16:04] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:16:04] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:16:04] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 426Mi
+[2026-05-15 17:16:04] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:16:04] Health check cycle completed
+[2026-05-15 17:16:34] Running health checks...
+[2026-05-15 17:16:34] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:16:34] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:16:35] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 426Mi
+[2026-05-15 17:16:35] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:16:35] Health check cycle completed
+[2026-05-15 17:17:05] Running health checks...
+[2026-05-15 17:17:05] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:17:05] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:17:05] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 427Mi
+[2026-05-15 17:17:05] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:17:05] Health check cycle completed
+[2026-05-15 17:17:35] Running health checks...
+[2026-05-15 17:17:35] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:17:35] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:17:35] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 433Mi
+[2026-05-15 17:17:35] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:17:35] Health check cycle completed
+[2026-05-15 17:18:05] Running health checks...
+[2026-05-15 17:18:05] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:18:05] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:18:05] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 448Mi
+[2026-05-15 17:18:05] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:18:05] Health check cycle completed
+[2026-05-15 17:18:35] Running health checks...
+[2026-05-15 17:18:35] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:18:35] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:18:35] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 448Mi
+[2026-05-15 17:18:35] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:18:35] Health check cycle completed
+[2026-05-15 17:19:05] Running health checks...
+[2026-05-15 17:19:06] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:19:06] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:19:06] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 449Mi
+[2026-05-15 17:19:06] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:19:06] Health check cycle completed
+[2026-05-15 17:19:36] Running health checks...
+[2026-05-15 17:19:36] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:19:36] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:19:36] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 461Mi
+[2026-05-15 17:19:36] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:19:36] Health check cycle completed
+[2026-05-15 17:20:06] Running health checks...
+[2026-05-15 17:20:06] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:20:06] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:20:06] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 464Mi
+[2026-05-15 17:20:06] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:20:06] Health check cycle completed
+[2026-05-15 17:20:36] Running health checks...
+[2026-05-15 17:20:36] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:20:36] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:20:36] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 465Mi
+[2026-05-15 17:20:36] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:20:36] Health check cycle completed
+[2026-05-15 17:21:06] Running health checks...
+[2026-05-15 17:21:07] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:21:07] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:21:07] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 465Mi
+[2026-05-15 17:21:07] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:21:07] Health check cycle completed
+[2026-05-15 17:21:37] Running health checks...
+[2026-05-15 17:21:37] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:21:37] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:21:37] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 466Mi
+[2026-05-15 17:21:37] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:21:37] Health check cycle completed
+[2026-05-15 17:22:07] Running health checks...
+[2026-05-15 17:22:07] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:22:07] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:22:07] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 466Mi
+[2026-05-15 17:22:07] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:22:07] Health check cycle completed
+[2026-05-15 17:22:37] Running health checks...
+[2026-05-15 17:22:38] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:22:38] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:22:38] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 457Mi
+[2026-05-15 17:22:38] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:22:38] Health check cycle completed
+[2026-05-15 17:23:08] Running health checks...
+[2026-05-15 17:23:08] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:23:08] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:23:08] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 457Mi
+[2026-05-15 17:23:08] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:23:08] Health check cycle completed
+[2026-05-15 17:23:38] Running health checks...
+[2026-05-15 17:23:38] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:23:38] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:23:38] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 457Mi
+[2026-05-15 17:23:38] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:23:38] Health check cycle completed
+[2026-05-15 17:24:08] Running health checks...
+[2026-05-15 17:24:08] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:24:08] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:24:08] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 457Mi
+[2026-05-15 17:24:08] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:24:08] Health check cycle completed
+[2026-05-15 17:24:38] Running health checks...
+[2026-05-15 17:24:38] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:24:38] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:24:39] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 460Mi
+[2026-05-15 17:24:39] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:24:39] Health check cycle completed
+[2026-05-15 17:25:09] Running health checks...
+[2026-05-15 17:25:09] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:25:09] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:25:09] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 460Mi
+[2026-05-15 17:25:09] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:25:09] Health check cycle completed
+[2026-05-15 17:25:39] Running health checks...
+[2026-05-15 17:25:39] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:25:39] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:25:39] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 460Mi
+[2026-05-15 17:25:39] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:25:39] Health check cycle completed
+[2026-05-15 17:26:09] Running health checks...
+[2026-05-15 17:26:09] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:26:09] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:26:09] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 461Mi
+[2026-05-15 17:26:09] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:26:09] Health check cycle completed
+[2026-05-15 17:26:39] Running health checks...
+[2026-05-15 17:26:39] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:26:39] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:26:40] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 464Mi
+[2026-05-15 17:26:40] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:26:40] Health check cycle completed
+[2026-05-15 17:27:10] Running health checks...
+[2026-05-15 17:27:10] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:27:10] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:27:10] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 473Mi
+[2026-05-15 17:27:10] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:27:10] Health check cycle completed
+[2026-05-15 17:27:40] Running health checks...
+[2026-05-15 17:27:40] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:27:40] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:27:40] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 473Mi
+[2026-05-15 17:27:40] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:27:40] Health check cycle completed
+[2026-05-15 17:28:10] Running health checks...
+[2026-05-15 17:28:10] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:28:10] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:28:10] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 456Mi
+[2026-05-15 17:28:10] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:28:10] Health check cycle completed
+[2026-05-15 17:28:40] Running health checks...
+[2026-05-15 17:28:40] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:28:40] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:28:40] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 457Mi
+[2026-05-15 17:28:40] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:28:40] Health check cycle completed
+[2026-05-15 17:29:10] Running health checks...
+[2026-05-15 17:29:11] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:29:11] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:29:11] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 458Mi
+[2026-05-15 17:29:11] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:29:11] Health check cycle completed
+[2026-05-15 17:29:41] Running health checks...
+[2026-05-15 17:29:41] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:29:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:29:41] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:29:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:29:41] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 418Mi
+[2026-05-15 17:29:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:29:41] Health check cycle completed
+[2026-05-15 17:30:11] Running health checks...
+[2026-05-15 17:30:11] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:30:11] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:30:11] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 458Mi
+[2026-05-15 17:30:11] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:30:11] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 419Mi
+[2026-05-15 17:30:11] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:30:11] Health check cycle completed
+[2026-05-15 17:30:41] Running health checks...
+[2026-05-15 17:30:41] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:30:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:30:41] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 461Mi
+[2026-05-15 17:30:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:30:41] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 420Mi
+[2026-05-15 17:30:41] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:30:41] Health check cycle completed
+[2026-05-15 17:31:11] Running health checks...
+[2026-05-15 17:31:12] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:31:12] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:31:12] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 463Mi
+[2026-05-15 17:31:12] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:31:12] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 439Mi
+[2026-05-15 17:31:12] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:31:12] Health check cycle completed
+[2026-05-15 17:31:42] Running health checks...
+[2026-05-15 17:31:42] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:31:42] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:31:42] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 471Mi
+[2026-05-15 17:31:42] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:31:42] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 446Mi
+[2026-05-15 17:31:42] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:31:42] Health check cycle completed
+[2026-05-15 17:32:12] Running health checks...
+[2026-05-15 17:32:12] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:32:12] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:32:12] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 477Mi
+[2026-05-15 17:32:12] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:32:12] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 445Mi
+[2026-05-15 17:32:12] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:32:12] Health check cycle completed
+[2026-05-15 17:32:42] Running health checks...
+[2026-05-15 17:32:42] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:32:42] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:32:43] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 479Mi
+[2026-05-15 17:32:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:32:43] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 445Mi
+[2026-05-15 17:32:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:32:43] Health check cycle completed
+[2026-05-15 17:33:13] Running health checks...
+[2026-05-15 17:33:13] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 479Mi
+[2026-05-15 17:33:13] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:33:13] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 445Mi
+[2026-05-15 17:33:13] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:33:13] Health check cycle completed
+[2026-05-15 17:33:43] Running health checks...
+[2026-05-15 17:33:43] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:33:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:33:43] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 469Mi
+[2026-05-15 17:33:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:33:43] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 446Mi
+[2026-05-15 17:33:43] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:33:43] Health check cycle completed
+[2026-05-15 17:34:13] Running health checks...
+[2026-05-15 17:34:14] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:34:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:34:14] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 469Mi
+[2026-05-15 17:34:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:34:14] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 446Mi
+[2026-05-15 17:34:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:34:14] Health check cycle completed
+[2026-05-15 17:34:44] Running health checks...
+[2026-05-15 17:34:44] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:34:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:34:44] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 468Mi
+[2026-05-15 17:34:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:34:44] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 446Mi
+[2026-05-15 17:34:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:34:44] Health check cycle completed
+[2026-05-15 17:35:14] Running health checks...
+[2026-05-15 17:35:14] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:35:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:35:14] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 469Mi
+[2026-05-15 17:35:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:35:14] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 446Mi
+[2026-05-15 17:35:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:35:14] Health check cycle completed
+[2026-05-15 17:35:44] Running health checks...
+[2026-05-15 17:35:44] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:35:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:35:44] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 455Mi
+[2026-05-15 17:35:44] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:35:44] Health check cycle completed
+[2026-05-15 17:36:14] Running health checks...
+[2026-05-15 17:36:14] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:36:14] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:36:15] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 458Mi
+[2026-05-15 17:36:15] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:36:15] Health check cycle completed
+[2026-05-15 17:36:45] Running health checks...
+[2026-05-15 17:36:45] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:36:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:36:45] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 456Mi
+[2026-05-15 17:36:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:36:45] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 413Mi
+[2026-05-15 17:36:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:36:45] Health check cycle completed
+[2026-05-15 17:37:15] Running health checks...
+[2026-05-15 17:37:15] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:37:15] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:37:15] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 452Mi
+[2026-05-15 17:37:15] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:37:15] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 419Mi
+[2026-05-15 17:37:15] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:37:15] Health check cycle completed
+[2026-05-15 17:37:45] Running health checks...
+[2026-05-15 17:37:45] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:37:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:37:45] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 453Mi
+[2026-05-15 17:37:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:37:45] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 429Mi
+[2026-05-15 17:37:45] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:37:45] Health check cycle completed
+[2026-05-15 17:38:15] Running health checks...
+[2026-05-15 17:38:16] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 455Mi
+[2026-05-15 17:38:16] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:38:16] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 444Mi
+[2026-05-15 17:38:16] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:38:16] Health check cycle completed
+[2026-05-15 17:38:46] Running health checks...
+[2026-05-15 17:38:46] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:38:46] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:38:46] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 456Mi
+[2026-05-15 17:38:46] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:38:46] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 445Mi
+[2026-05-15 17:38:46] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:38:46] Health check cycle completed
+[2026-05-15 17:39:16] Running health checks...
+[2026-05-15 17:39:16] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:39:16] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:39:16] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 459Mi
+[2026-05-15 17:39:16] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:39:16] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 448Mi
+[2026-05-15 17:39:16] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:39:16] Health check cycle completed
+[2026-05-15 17:39:46] Running health checks...
+[2026-05-15 17:39:46] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:39:46] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:39:46] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 460Mi
+[2026-05-15 17:39:46] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:39:46] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 455Mi
+[2026-05-15 17:39:46] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:39:46] Health check cycle completed
+[2026-05-15 17:40:16] Running health checks...
+[2026-05-15 17:40:16] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:40:16] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:40:17] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 461Mi
+[2026-05-15 17:40:17] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:40:17] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 452Mi
+[2026-05-15 17:40:17] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:40:17] Health check cycle completed
+[2026-05-15 17:40:47] Running health checks...
+[2026-05-15 17:40:47] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:40:47] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:40:47] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 461Mi
+[2026-05-15 17:40:47] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:40:47] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 452Mi
+[2026-05-15 17:40:47] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:40:47] Health check cycle completed
+[2026-05-15 17:41:17] Running health checks...
+[2026-05-15 17:41:17] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:41:17] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:41:17] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 461Mi
+[2026-05-15 17:41:17] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:41:17] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 452Mi
+[2026-05-15 17:41:17] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:41:17] Health check cycle completed
+[2026-05-15 17:41:47] Running health checks...
+[2026-05-15 17:41:47] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:41:47] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:41:48] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 461Mi
+[2026-05-15 17:41:48] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:41:48] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 452Mi
+[2026-05-15 17:41:48] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:41:48] Health check cycle completed
+[2026-05-15 17:42:18] Running health checks...
+[2026-05-15 17:42:19] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:42:19] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:42:19] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:42:19] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:42:19] Health check cycle completed
+[2026-05-15 17:42:49] Running health checks...
+[2026-05-15 17:42:49] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:42:49] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:42:49] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:42:49] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:42:49] Health check cycle completed
+[2026-05-15 17:43:19] Running health checks...
+[2026-05-15 17:43:20] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:43:20] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:43:20] Health check cycle completed
+[2026-05-15 17:43:50] Running health checks...
+[2026-05-15 17:43:50] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:43:50] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:43:50] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:43:50] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:43:50] Health check cycle completed
+[2026-05-15 17:44:20] Running health checks...
+[2026-05-15 17:44:20] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:44:20] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:44:20] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:44:20] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:44:20] Health check cycle completed
+[2026-05-15 17:44:50] Running health checks...
+[2026-05-15 17:44:50] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:44:50] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:44:51] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:44:51] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:44:51] Health check cycle completed
+[2026-05-15 17:45:21] Running health checks...
+[2026-05-15 17:45:21] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:45:21] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:45:21] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:45:21] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:45:21] Health check cycle completed
+[2026-05-15 17:45:51] Running health checks...
+[2026-05-15 17:45:51] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:45:51] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:45:51] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:45:51] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:45:51] Health check cycle completed
+[2026-05-15 17:46:21] Running health checks...
+[2026-05-15 17:46:21] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:46:21] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:46:21] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:46:21] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:46:21] Health check cycle completed
+[2026-05-15 17:46:51] Running health checks...
+[2026-05-15 17:46:52] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:46:52] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:46:52] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 486Mi
+[2026-05-15 17:46:52] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:46:52] Health check cycle completed
+[2026-05-15 17:47:22] Running health checks...
+[2026-05-15 17:47:22] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:47:22] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:47:22] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 457Mi
+[2026-05-15 17:47:22] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:47:22] Health check cycle completed
+[2026-05-15 17:47:52] Running health checks...
+[2026-05-15 17:47:52] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:47:52] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:47:52] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 460Mi
+[2026-05-15 17:47:52] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:47:52] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 402Mi
+[2026-05-15 17:47:52] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:47:52] Health check cycle completed
+[2026-05-15 17:48:22] Running health checks...
+[2026-05-15 17:48:22] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:48:22] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:48:23] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 463Mi
+[2026-05-15 17:48:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:48:23] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 405Mi
+[2026-05-15 17:48:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:48:23] Health check cycle completed
+[2026-05-15 17:48:53] Running health checks...
+[2026-05-15 17:48:53] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:48:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:48:53] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:48:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:48:53] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 406Mi
+[2026-05-15 17:48:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:48:53] Health check cycle completed
+[2026-05-15 17:49:23] Running health checks...
+[2026-05-15 17:49:23] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:49:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:49:23] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 462Mi
+[2026-05-15 17:49:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:49:23] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 406Mi
+[2026-05-15 17:49:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:49:23] Health check cycle completed
+[2026-05-15 17:49:53] Running health checks...
+[2026-05-15 17:49:53] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:49:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:49:53] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 465Mi
+[2026-05-15 17:49:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:49:53] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 407Mi
+[2026-05-15 17:49:53] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:49:53] Health check cycle completed
+[2026-05-15 17:50:23] Running health checks...
+[2026-05-15 17:50:23] Issue detected in pod: broken-nginx-b4fcbfbc5-brvgd | Reason: CrashLoopBackOff
+[2026-05-15 17:50:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:50:23] High memory usage detected in pod: kube-apiserver-desktop-control-plane | Memory: 453Mi
+[2026-05-15 17:50:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:50:23] High memory usage detected in pod: monitoring-grafana-59d944d855-2ssnc | Memory: 407Mi
+[2026-05-15 17:50:23] Failed to get deployment name: 'str' object has no attribute 'metadata'
+[2026-05-15 17:50:23] Health check cycle completed

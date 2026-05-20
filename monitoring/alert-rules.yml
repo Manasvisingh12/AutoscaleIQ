@@ -1,0 +1,12 @@
+groups:
+  - name: kubernetes-alerts
+    rules:
+
+    - alert: PodCrashLooping
+      expr: kube_pod_container_status_restarts_total > 0
+      for: 0s
+      labels:
+        severity: critical
+      annotations:
+        summary: "Pod is crashing"
+        description: "Pod {{ $labels.pod }} is restarting frequently"

@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: frontend-app:v1
+        image: singhmanasvi/autoscaleiq:latest
         imagePullPolicy: Never
 
         ports:

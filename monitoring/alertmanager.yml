@@ -1,0 +1,13 @@
+route:
+  receiver: "discord"
+
+receivers:
+  - name: "discord"
+    slack_configs:
+      - api_url: "https://discord.com/api/webhooks/1505991788173856830/9eZPuUanqhWXKJVgymiULDsW4seVXbcZrbnPPnQoCYJ3dMhKN1PQk8kM2epmW5g1HfAM"
+        channel: "#general"
+        text: |
+          🚨 ALERT: {{ .CommonAnnotations.summary }}
+          {{ .CommonAnnotations.description }}
+        send_resolved: true
+            

@@ -1,0 +1,52 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-test-push:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    # 1. Get code
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    # 2. Setup Python (if needed)
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    # 3. Install dependencies
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt || true
+
+    # 4. Run tests (safe)
+    - name: Run Tests
+      run: |
+        echo "No tests yet - skipping"
+
+    # 5. Docker Login
+    - name: Docker Login
+      run: |
+        echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
+
+    # 6. Build Image
+    - name: Build Docker Image
+      run: |
+        docker build -t ${{ secrets.DOCKER_USERNAME }}/autoscaleiq:latest .
+
+    # 7. Push Image
+    - name: Push Docker Image
+      run: |
+        docker push ${{ secrets.DOCKER_USERNAME }}/autoscaleiq:latest
+
+    # 8. Skip Deployment (Important)
+    - name: Skip Kubernetes Deploy
+      run: |
+        echo "Deployment skipped (local Minikube cluster)"

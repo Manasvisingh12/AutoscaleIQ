@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2","Source":"./modules/ec2","Dir":"modules/ec2"},{"Key":"k8s","Source":"./modules/k8s","Dir":"modules/k8s"},{"Key":"sg","Source":"./modules/security_group","Dir":"modules/security_group"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
